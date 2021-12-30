@@ -3,6 +3,9 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.8">
       <module name="Fragments.app" target="11" />
+      <module name="Fragments.service" target="11" />
+      <module name="Fragments.services" target="11" />
+      <module name="Fragments.test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

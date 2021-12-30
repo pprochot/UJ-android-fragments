@@ -8,5 +8,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Fragments"
 include ':app'
-include ':services'
 include ':domain'
+include ':services'
